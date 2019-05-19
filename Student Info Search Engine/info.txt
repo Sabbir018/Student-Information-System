@@ -1,0 +1,344 @@
+------------------DATA------------------
+----------------------------------------
+1...
+student id:    1302029
+full name:     jyotirmay devnath
+district:      dinajpur
+contact no:    01751344601
+division:      rangpur
+blood group:   b+
+
+------------------------------------------
+2...
+student id:   1402020
+full name:    Tasnim Tabassum 
+district:     Rangpur
+contact no:   01713647922
+division:     Rangpur
+blood group:  B+
+
+------------------------------------------
+3...
+student id:  1302015
+full name:   Md Imran hossain
+district:    jessore
+contact no:  01754443153
+division:    khulna
+blood group: B+
+
+--------------------------------------------
+4...
+student id:   1402039
+full name:    MD.AL-AMIN
+district:     Joypurhat
+contact no:   01738088967
+division:     Rajshahi
+blood group:  B+
+
+-------------------------------------------
+5...
+student id:  1302049
+full name:   IMAM MAHADI 
+district:    DINAJPUR 
+contact no:  01744833318
+divission :  RANGPUR
+blood group: O+
+-------------------------------------------
+6...
+student id:  1402035
+full name:   md. Ismail
+disrtrict:   chapai nawab gonj.
+mobile:      01743557172
+division:    rajshahi
+blood group: B+
+--------------------------------------------
+7...
+student id:  1402015
+full name:   Abdullah Al Mahmud
+district:    kurigram
+contact no:  01791810207
+division:    rangpur
+blood group: O+
+-------------------------------------------
+8...
+student id:  1402031
+full name:   BHAGYOBANDHU ROY
+district:    Nilphamari
+contact no:  01754873986,01913994085
+division:    RANGPUR
+blood group: O+
+
+---------------------------------------------
+9...
+student id:  1402043
+full name:   MD.ABDULLAH AL NOMAN
+district:    BOGRA
+contact no:  01738148344
+disision:    RAJSHAHI
+blood group: B+
+---------------------------------------------
+10...
+student id:   1402063
+full name:    Zunnun rahman
+district:     naogoan
+contact no:   01765123122
+division:     rajshahi
+blood group:  B+
+
+--------------------------------------------
+11...
+student id:   1402045
+full name:    MEHADI HASAN SHUVO
+district:     THAKURGAON
+contact no:   01774415361
+division:     RANGPUR
+blood group:  B+
+
+--------------------------------------------
+12...
+student id:  1302035
+full name:   rifat hasan rinky
+district:    dinajpur
+contact no:  01932747906
+division:    rangpur
+blood group: O+
+
+--------------------------------------------
+13...
+student id:  1402048
+full name:   Iqbal Mahmud
+district:    Rajshahi
+contact no:  01710656794
+division:    Rajshahi
+blood group: O+
+--------------------------------------------
+14...
+student id:  1302042
+full name:   MD SHARIFUL ISLAM
+district:    PANCHAGARH
+contact no:  0178510023
+division:    RANGPUR
+blood group: unknown
+--------------------------------------------
+15...
+student id:  1402074
+full name:   Abu Hasan
+district:    Jessore
+contact no:  01742835323
+division:    khulna
+blood group: A+
+
+-------------------------------------------
+16...
+student id : 1402032
+full name:   khaled hasan prince
+district :   rangpur
+contact no:  01773019511
+division:    rangpur
+blood group: A+
+-------------------------------------------
+17...
+student id:  1302047
+full name:   Sharmin Akter
+district:    Dinajpur
+contact no:  01722413982
+division:    Rangpur
+blood group: A+
+
+-------------------------------------------
+18...
+student id:  1402038
+full name:   Nuzhat moumita
+district:    Rangpur
+contact no:  01773079743
+division:    Rangpur
+blood group: O+
+
+-------------------------------------------
+19...
+student id:  1302033
+full name:   TAOHIDA ISLAM
+district:    Nilphamari
+contact no:  01929316326
+division:    Rangpur
+blood group: unknown
+-----------------------------------------
+20...
+student id:  1402033
+full name:   Kamrun Nahar
+district:    Thakurgaon 
+contact no:  01748858355 
+division:    Rangpur
+blood group: A+
+-------------------------------------------
+21...
+student id:   1402070
+full name:    nafisa tasnim prome
+district:     rangpur
+contact no:   01792880561
+division:     rangpur
+blood group:  b+
+
+------------------------------------------
+22...
+student id:  1402012
+full name:   MD.ARSHAD KHAN
+district:    TANGAIL
+contact no:  01680588378
+division:    DHAKA>
+blood group: B+
+
+------------------------------------------
+23...
+student id:  1402071
+full name:   Md sajib chowdhhry
+district:    Dinajpur
+contact no:  01944368116
+division:    Rangpur
+blood group: AB(-)
+
+---------------------------------------
+24...
+student id:   1302018
+full name:    Md Sabbir Hossain
+district:     Dinajpur
+contact no:   01775640944
+division:     rangpur
+blood group:  AB+
+
+---------------------------------------
+25...
+student id:   1402023
+full name:    Bipasha Sarkar
+district:     dinajpur
+contact :     01515689702 / 01761712591
+division :    rangpur
+blood group:  O+
+
+-----------------------------------------
+26...
+student id:  1402024
+full name:   MD. AL AMIN HOSSAIN
+district:    Rangpur
+contact no:  01755134480
+division:    Rangpur
+blood group: O+
+
+-----------------------------------------
+27...
+student id:  1402066
+full name:   Md Nazmul islam
+district:    Rangpur
+contact no:  01736586106
+division:    Rangpur
+blood group: B+
+
+----------------------------------------
+28...
+student id:  1402036
+full name:   Md. Raihanul ferdous
+district:    bogra
+contact no:  01673101946
+division:    rajshahi
+blood group: O+
+
+----------------------------------------
+29...
+student id:  1402040
+full name:   Md Abdullah Al Mamun 
+district:    Rangpur 
+contact no:  01755339741
+division:    Rangpur 
+blood group: B+
+
+------------------------------------------
+30...
+student id:  1402047.
+full name:   SURJO NARAYAN ROY.
+district:    NILFAMARI 
+Division:    RANGPUR
+Contact No:  01738770450
+blood group: unknown
+-------------------------------------------
+31...
+student id:  1402008
+full name:   sadi mohammud syfullah
+District:    chuadanga
+Contract no: 01738357019
+Division:    khulna
+Blood group: AB+
+
+--------------------------------------------
+32...
+student id:  1402061
+full name:   Eshita Mitra
+district:    Rajbari
+contact no:  01704528007
+division:    Dhaka
+blood group: B+
+
+--------------------------------------------
+33...
+student id:  1402041
+full name:   rezwanur rahman
+district:    dinajpur
+contact no:  01521440572
+division:    rangpur
+blood group: A+
+
+---------------------------------------------
+34...
+student id:  1302006
+full name:   Mst Farjana Alam
+district:    bogra
+contact no:  01768831617
+division:    rajshahi
+blood group: B+
+---------------------------------------------
+35...
+student id:  1402051
+full name:   Md Galib bin alam
+district:    Naogoan
+contact no:  0177821149
+division:    rajshahi
+blood group: A+
+--------------------------------------------
+36...
+student id:  1402049
+full name:   Shyama prosad mollick
+district:    jessore
+contact no:  01753027187
+division:    Khulna
+blood group: O+
+-------------------------------------------
+37...
+student id: 1302030
+full name: Khairul Bashar
+district: Rajshahi
+contact no: 01760446942
+division: Rajshahi
+blood group:
+-------------------------------------------
+38...
+student id: 1302018
+full name:  Md. Sabbir Hossain
+district: Dinajpur
+contact no: 01775640944
+division: Rangpur
+blood group: AB+
+-------------------------------------------
+39...
+student id:
+full name:
+district:
+contact no:
+division:
+blood group:
+------------------------------------------
+40...
+student id:
+full name:
+district:
+contact no:
+division:
+blood group:
